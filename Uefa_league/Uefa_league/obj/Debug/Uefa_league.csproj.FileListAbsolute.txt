@@ -1,0 +1,11 @@
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\bin\Debug\Uefa_league.exe.config
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\bin\Debug\Uefa_league.exe
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\bin\Debug\Uefa_league.pdb
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.csproj.SuggestedBindingRedirects.cache
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.Form1.resources
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.Properties.Resources.resources
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.csproj.GenerateResource.cache
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.exe
+C:\Users\12999355\Desktop\barin francesco\Uefa-micronations\Uefa_league\Uefa_league\obj\Debug\Uefa_league.pdb
